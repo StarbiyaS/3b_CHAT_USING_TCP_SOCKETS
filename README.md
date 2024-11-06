@@ -30,7 +30,7 @@ while True:
     msg=input("Server > ")
     c.send(msg.encode())
 ```
-## OUPUT
+## OUTPUT
 ![Screenshot 2024-11-06 221843](https://github.com/user-attachments/assets/427fce4e-daa5-486d-b9c8-bf6def123804)
 
 
